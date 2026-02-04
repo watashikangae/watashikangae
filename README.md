@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @watashikangae
-- 👀 I’m interested in Py and Cloud Computing
-- 🌱 Currently learning Data Analysis
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: JJK (IYKYK)...
+- 👀 I’m interested in Python, AI and Cyber Security
+- 🌱 Currently learning Ethical hacking
+- 💞️ I’m looking to collaborate on products geared towards preventing fraud through social media sites, fake vendors etc
+- ⚡ Fun fact: 
 
 <!---
 watashikangae/watashikangae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
